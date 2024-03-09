@@ -1,8 +1,6 @@
 function TextFilter() {
     return (
-      <>
-        Hallo
-      </>
+      <div></div>
     )
   }
   
